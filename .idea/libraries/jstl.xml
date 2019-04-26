@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="file://G:/jar/jstl" />
+      <root url="file://G:/jar/mybatis" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://G:/jar/jstl" recursive="false" />
+    <jarDirectory url="file://G:/jar/mybatis" recursive="false" />
+  </library>
+</component>
